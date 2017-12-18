@@ -1,34 +1,6 @@
 # complexsem
 Comlexsem exam
 
-
-# Table of Contents
-
-1.  [1](#org0d73a75)
-2.  [2](#orgfe471da)
-3.  [3](#orgde7e915)
-    1.  [A](#org890ed30)
-    2.  [B](#orgf928908)
-4.  [4](#org1845128)
-    1.  [3](#org6abc42f)
-    2.  [4](#org7e1e125)
-    3.  [5](#orgde0e6e8)
-5.  [6](#org187bb8a)
-6.  [7](#org08a3c4c)
-7.  [8](#org5483908)
-8.  [9](#org1025195)
-9.  [10](#orgc86dc04)
-10. [11](#orgca04f0e)
-11. [12](#org021dc0d)
-12. [13](#org4eaf3c5)
-13. [14](#orgf1b634c)
-14. [15](#orgec0b42d)
-15. [16](#orgeba726e)
-16. [17](#orgbc526bf)
-17. [18](#org724666d)
-
-
-
 <a id="org0d73a75"></a>
 
 # 1
